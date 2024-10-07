@@ -92,16 +92,7 @@ Feel free to submit issues or pull requests if you want to contribute to the pro
 License
 This project is open-source and available under the MIT License.
 
-markdown
-Copy code
 
-### Instructions for Customization
-
-1. **Repository URL:** Replace `<repository-url>` with the actual URL of your project repository.
-2. **Additional Features:** You can add any additional features or usage instructions as needed.
-3. **License Information:** If you have a specific license for your project, include that in the License section.
-
-This README provides clear instructions on how to use your CLI task tracker and explains its features and setup. Let me know if you need further adjustments or additional sections!
 
 
 
